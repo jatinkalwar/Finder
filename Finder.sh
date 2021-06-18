@@ -1072,7 +1072,7 @@ bash Finder.sh
 }
 
 
-
+clear
 banner
        echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
        echo ' '
