@@ -7,15 +7,15 @@ trap 'printf "\n";partial;exit 1' 2
 
 banner() {
 
-printf "                                     \e[1;92m.-\"\"\"\"-. \e[0m\n"
+printf "                                      \e[1;92m.-\"\"\"\"-. \e[0m\n"
 printf "                                     \e[1;92m/        \ \e[0m\n"
 printf "\e[1;93m   ___  _         _                 \e[0m\e[1;92m/_        _\ \e[0m\n" 
 printf "\e[1;93m  | __][_] _ _  _| | ___  _ _      \e[0m\e[1;92m// \      / \\ \e[0m\n"
 printf "\e[1;93m  | _] | || ' |/ . |/ ._]| '_]     \e[0m\e[1;92m|\__\    /__/| \e[0m\n"
 printf "\e[1;93m  |_|  |_||_|_|\___|\___.|_|        \e[0m\e[1;92m\    ||    / \e[0m\n"
-printf "                                             \e[0m\e[1;92m\        / \e[0m\n"
-printf " \e[1;92mv7.6, Author: @Jatin_Kalwar  \e[0m   \e[1;92m\  __  / \e[0m\n"
-printf "						    \e[1;92m'.__.' \e[0m\n"       
+printf "                                        \e[0m\e[1;92m\        / \e[0m\n"
+printf " \e[1;92mv7.6, Author: @Jatin_Kalwar  \e[0m       \e[1;92m\  __  / \e[0m\n"
+printf "				 \e[1;92m'.__.' \e[0m\n"       
 
 }
 
